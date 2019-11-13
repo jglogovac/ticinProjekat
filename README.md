@@ -1,0 +1,2 @@
+# ticinProjekat
+Practising git
